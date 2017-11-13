@@ -57,14 +57,45 @@
 
 ***
 * 05 Recursion
+  * [Introduction to Recursion](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/Introduction%20to%20Recursion.ipynb)
+  
+  * [Memoization](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/Memoization.ipynb)
+  
+  * [Recursion Homework Problems - Solutions
+](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/Recursion%20Homework%20Example%20Problems%20-%20SOLUTIONS.ipynb)
 
+  
 
 ***
 * 06 Trees
+  * [Tree Representation Implementation (Lists)](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/Tree%20Representation%20Implementation%20%28Lists%29.ipynb)
+  
+  * [Tree Representation Implementation (Nodes and References).ipynb](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/Tree%20Representation%20Implementation%20%28Nodes%20and%20References%29.ipynb)
+  
+  * [Binary Search Trees](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/Binary%20Search%20Trees.ipynb)
+  
+  * [Binary Heap Implementation](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/Binary%20Heap%20Implementation.ipynb)
 
 
 ***
 * 07 Sorting and Searching
+  * [Sequential Search](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Sequential%20Search.ipynb)
+  
+  * [Implementation of Binary Search](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Binary%20Search.ipynb)
+  
+  * [Implementation of a Hash Table](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20a%20Hash%20Table.ipynb)
+  
+  * [Implementation of a Bubble Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Bubble%20Sort.ipynb)
+  
+  * [Implementation of Selection Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Selection%20Sort.ipynb)
+  
+  * [Implementation of Insertion Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Insertion%20Sort.ipynb)
+  
+  * [Implementation of Shell Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Shell%20Sort.ipynb)
+  
+  * [Implementation of Merge Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Merge%20Sort.ipynb)
+  
+  * [Implementation of Quick Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Quick%20Sort.ipynb)
 
 
 ***
