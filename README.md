@@ -44,6 +44,15 @@
 
 ***
 * 04 Linked Lists
+  * [Linked Lists](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/Linked%20List%20Overview.ipynb)
+  
+  * [Singly Linked List Implementation](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/Singly%20Linked%20List%20Implementation.ipynb)
+  
+  * [Doubly Linked List Implementation](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/Doubly%20Linked%20List%20Implementation.ipynb)
+  
+  * [Singly-Linked-Lists.pdf](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/Singly-Linked-Lists.pdf)
+  
+  * [Doubly-Linked-Lists.pdf](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/Doubly-Linked-Lists.pdf)
 
 
 ***
