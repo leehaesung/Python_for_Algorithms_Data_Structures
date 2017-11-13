@@ -15,7 +15,7 @@
   
   * [Big O for Python Data Structures](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/Big%20O%20for%20Python%20Data%20Structures.ipynb)
   
-  * ![big-o-cheat-sheet-poster.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/big-o-cheat-sheet-poster.png)
+  ![big-o-cheat-sheet-poster.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/big-o-cheat-sheet-poster.png)
 
 ***
 * 02 Array Sequences
