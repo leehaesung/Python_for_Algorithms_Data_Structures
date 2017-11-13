@@ -23,7 +23,7 @@
   
   * [Dynamic Array Exercise](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/Dynamic%20Array%20Exercise.ipynb)
   
-  * [Array_Sequences/lect0203.pd](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/lect0203.pdf)
+  * [Array_Sequences/lect0203.pdf](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/lect0203.pdf)
 
 ***
 * 03 Stacks Queues and Deques
