@@ -7,7 +7,7 @@
 ## Contents
 
 * 01 Algorithm Analysis and Big O
-  * [Introduction to Algorithm Analysis and Big O](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/Introduction%20to%20Algorithm%20Analysis%20and%20Big%20O%20.ipynb)
+  * [Introduction to Algorithm Analysis and Big O](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/01_Introduction_to_Algorithm_Analysis_and_Big_O%20.ipynb)
 
   * [Big O Notation](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/Big%20O%20Notation.ipynb)
   
