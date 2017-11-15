@@ -9,25 +9,25 @@
 * 01 Algorithm Analysis and Big O
   * [Introduction to Algorithm Analysis and Big O](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/01_Introduction_to_Algorithm_Analysis_and_Big_O%20.ipynb)
 
-  * [Big O Notation](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/Big%20O%20Notation.ipynb)
+  * [Big O Notation](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/02_Big_O_Notation.ipynb)
   
-  * [Big O Examples](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/Big%20O%20Examples%20.ipynb)
+  * [Big O Examples](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/03_Big_O_Examples.ipynb)
   
-  * [Big O for Python Data Structures](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/Big%20O%20for%20Python%20Data%20Structures.ipynb)
+  * [Big O for Python Data Structures](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/04_Big_O_for_Python_Data_Structures.ipynb)
   
   
 
 ***
 * 02 Array Sequences
-  * [Introduction to Array Based Sequences](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/Introduction%20to%20Array%20Based%20Sequences.ipynb)
+  * [Introduction to Array Based Sequences](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/01_Introduction_to_Array_Based_Sequences.ipynb)
   
-  * [Dynamic Array Exercise](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/Dynamic%20Array%20Exercise.ipynb)
+  * [Dynamic Array Exercise](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/04_Dynamic_Array_Exercise.ipynb)
   
  
 
 ***
 * 03 Stacks Queues and Deques
-  * [Stacks Overview](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/Stacks%20Overview.ipynb)
+  * [Stacks Overview](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/02_Stacks_Overview.ipynb)
   
   * [Implementation of Stack](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/Implementation%20of%20Stack.ipynb)
   
