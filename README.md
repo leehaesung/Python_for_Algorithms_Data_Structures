@@ -29,78 +29,78 @@
 * 03 Stacks Queues and Deques
   * [Stacks Overview](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/02_Stacks_Overview.ipynb)
   
-  * [Implementation of Stack](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/Implementation%20of%20Stack.ipynb)
+  * [Implementation of Stack](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/03_Implementation_of_Stack.ipynb)
   
-  * [Queues Overview](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/Queues%20Overview.ipynb)
+  * [Queues Overview](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/04_Queues_Overview.ipynb)
   
-  * [Implementation of Queue](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/Implementation%20of%20Queue.ipynb)
+  * [Implementation of Queue](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/05_Implementation_of_Queue.ipynb)
   
-  * [Deques Overview](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/Deques%20Overview.ipynb)
+  * [Deques Overview](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/06_Deques_Overview.ipynb)
   
-  * [Implementation of Deque](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/Implementation%20of%20Deque.ipynb)
+  * [Implementation of Deque](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/07_Implementation_of_Deque.ipynb)
 
 
 ***
 * 04 Linked Lists
-  * [Singly Linked List Implementation](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/Singly%20Linked%20List%20Implementation.ipynb)
+  * [Singly Linked List Implementation](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/03_Singly_Linked_List_Implementation.ipynb)
   
-  * [Doubly Linked List Implementation](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/Doubly%20Linked%20List%20Implementation.ipynb)
+  * [Doubly Linked List Implementation](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/05_Doubly_Linked_List_Implementation.ipynb)
   
 
 ***
 * 05 Recursion
-  * [Introduction to Recursion](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/Introduction%20to%20Recursion.ipynb)
+  * [Introduction to Recursion](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/01_Introduction_to_Recursion.ipynb)
   
-  * [Memoization](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/Memoization.ipynb)
+  * [Memoization](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/04_Memoization.ipynb)
   
   * [Recursion Homework Problems - Solutions
-](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/Recursion%20Homework%20Example%20Problems%20-%20SOLUTIONS.ipynb)
+](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/03_Recursion_Homework_Example_Problems_SOLUTIONS.ipynb)
 
   
 
 ***
 * 06 Trees
-  * [Tree Representation Implementation (Lists)](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/Tree%20Representation%20Implementation%20%28Lists%29.ipynb)
+  * [Tree Representation Implementation (Lists)](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/01_Tree_Representation_Implementation_Lists.ipynb)
   
-  * [Tree Representation Implementation (Nodes and References).ipynb](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/Tree%20Representation%20Implementation%20%28Nodes%20and%20References%29.ipynb)
+  * [Tree Representation Implementation (Nodes and References).ipynb](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/02_Tree_Representation_Implementation_Nodes_and_References.ipynb)
   
-  * [Binary Search Trees](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/Binary%20Search%20Trees.ipynb)
+  * [Binary Search Trees](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/04_Binary_Search_Trees.ipynb)
   
-  * [Binary Heap Implementation](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/Binary%20Heap%20Implementation.ipynb)
+  * [Binary Heap Implementation](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/03_Binary_Heap_Implementation.ipynb)
 
 
 ***
 * 07 Sorting and Searching
-  * [Sequential Search](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Sequential%20Search.ipynb)
+  * [Sequential Search](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/01_Sequential_Search.ipynb)
   
-  * [Implementation of Binary Search](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Binary%20Search.ipynb)
+  * [Implementation of Binary Search](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/02_Implementation_of_Binary_Search.ipynb)
   
-  * [Implementation of a Hash Table](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20a%20Hash%20Table.ipynb)
+  * [Implementation of a Hash Table](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/03_Implementation_of_a_Hash_Table.ipynb)
   
-  * [Implementation of a Bubble Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Bubble%20Sort.ipynb)
+  * [Implementation of a Bubble Sort](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/04_Implementation_of_Bubble_Sort.ipynb)
   
-  * [Implementation of Selection Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Selection%20Sort.ipynb)
+  * [Implementation of Selection Sort](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/05_Implementation_of_Selection_Sort.ipynb)
   
-  * [Implementation of Insertion Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Insertion%20Sort.ipynb)
+  * [Implementation of Insertion Sort](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/06_Implementation_of_Insertion_Sort.ipynb)
   
-  * [Implementation of Shell Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Shell%20Sort.ipynb)
+  * [Implementation of Shell Sort](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/07_Implementation_of_Shell_Sort.ipynb)
   
-  * [Implementation of Merge Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Merge%20Sort.ipynb)
+  * [Implementation of Merge Sort](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/08_Implementation_of_Merge_Sort.ipynb)
   
-  * [Implementation of Quick Sort](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/Implementation%20of%20Quick%20Sort.ipynb)
+  * [Implementation of Quick Sort](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/09_Implementation_of_Quick_Sort.ipynb)
 
 
 ***
 * 08 Graphs
-  * [Implementation of a Graph as an Adjacency List](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/Implementation%20of%20Adjacency%20List.ipynb)
+  * [Implementation of a Graph as an Adjacency List](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/01_Implementation_of_Adjacency_List.ipynb)
   
-  * [Word Ladder Example Code](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/Word%20Ladder%20Example%20Problem.ipynb)
+  * [Word Ladder Example Code](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/02_Word_Ladder_Example_Problem.ipynb)
   
-  * [Implementation of Breadth First Search](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/Implementation%20of%20Breadth%20First%20Search.ipynb)
+  * [Implementation of Breadth First Search](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/03_Implementation_of_Breadth_First_Search.ipynb)
   
-  * [Knight's Tour Code](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/Knight%27s%20Tour%20Example%20Problem.ipynb)
+  * [Knight's Tour Code](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/04_Knight's_Tour_Example_Problem.ipynb)
   
-  * [Implementation of Depth-First Search](http://nbviewer.jupyter.org/github/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/Implementation%20of%20Depth%20First%20Search.ipynb)
+  * [Implementation of Depth-First Search](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/05_Implementation_of_Depth_First_Search.ipynb)
 
 
 ***
