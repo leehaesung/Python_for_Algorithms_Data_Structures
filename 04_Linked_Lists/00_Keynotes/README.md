@@ -61,3 +61,5 @@
 ![04_30.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/00_Keynotes/04_30.png)
 
 ![04_31.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/00_Keynotes/04_31.png)
+
+![04_32.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/00_Keynotes/04_32.png)
