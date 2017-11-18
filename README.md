@@ -124,5 +124,5 @@
 
 
 ***
-* References
-  * [Udemy: python for data structures algorithms and- nterviews](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)   
+### References
+  * [Udemy: Python For Data Structures Algorithms And Interviews](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)   
