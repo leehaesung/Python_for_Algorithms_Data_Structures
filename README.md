@@ -106,6 +106,8 @@
 
 ***
 * 08 Graphs
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/00_Keynotes/00_README.md)
+
   * [Implementation of a Graph as an Adjacency List](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/01_Implementation_of_Adjacency_List.ipynb)
   
   * [Word Ladder Example Code](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/08_Graphs/02_Word_Ladder_Example_Problem.ipynb)
