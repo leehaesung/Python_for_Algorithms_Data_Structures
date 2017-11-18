@@ -31,6 +31,8 @@
 
 ***
 * 03 Stacks Queues and Deques
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/00_Keynotes/README.md)
+
   * [Stacks Overview](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/02_Stacks_Overview.ipynb)
   
   * [Implementation of Stack](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/03_Implementation_of_Stack.ipynb)
@@ -46,6 +48,8 @@
 
 ***
 * 04 Linked Lists
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/00_Keynotes/README.md)
+
   * [Singly Linked List Implementation](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/03_Singly_Linked_List_Implementation.ipynb)
   
   * [Doubly Linked List Implementation](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/05_Doubly_Linked_List_Implementation.ipynb)
@@ -53,6 +57,8 @@
 
 ***
 * 05 Recursion
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/00_Keynotes/README.md)
+
   * [Introduction to Recursion](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/01_Introduction_to_Recursion.ipynb)
   
   * [Memoization](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/04_Memoization.ipynb)
@@ -64,6 +70,8 @@
 
 ***
 * 06 Trees
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/README.md)
+
   * [Tree Representation Implementation (Lists)](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/01_Tree_Representation_Implementation_Lists.ipynb)
   
   * [Tree Representation Implementation (Nodes and References).ipynb](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/02_Tree_Representation_Implementation_Nodes_and_References.ipynb)
