@@ -121,7 +121,7 @@
 
 ***
 * 09 Riddles
-
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/09_Riddles/00_Keynotes/00_README.md)
 
 ***
 * 10 Mock Interviews
