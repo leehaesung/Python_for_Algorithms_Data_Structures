@@ -7,7 +7,7 @@
 ## Contents
 
 * 01 Algorithm Analysis and Big O
-  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/00_Keynotes/README.md)
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/00_Keynotes/00_README.md)
 
   * [Introduction to Algorithm Analysis and Big O](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/01_Introduction_to_Algorithm_Analysis_and_Big_O%20.ipynb)
 
@@ -21,7 +21,7 @@
 
 ***
 * 02 Array Sequences
-  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/00_Keynotes/README.md)
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/00_Keynotes/00_README.md)
 
   * [Introduction to Array Based Sequences](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/01_Introduction_to_Array_Based_Sequences.ipynb)
   
@@ -31,7 +31,7 @@
 
 ***
 * 03 Stacks Queues and Deques
-  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/00_Keynotes/README.md)
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/00_Keynotes/00_README.md)
 
   * [Stacks Overview](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/03_Stacks_Queues_and_Deques/02_Stacks_Overview.ipynb)
   
@@ -48,7 +48,7 @@
 
 ***
 * 04 Linked Lists
-  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/00_Keynotes/README.md)
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/00_Keynotes/00_README.md)
 
   * [Singly Linked List Implementation](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/04_Linked_Lists/03_Singly_Linked_List_Implementation.ipynb)
   
@@ -57,7 +57,7 @@
 
 ***
 * 05 Recursion
-  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/00_Keynotes/README.md)
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/00_Keynotes/00_README.md)
 
   * [Introduction to Recursion](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/01_Introduction_to_Recursion.ipynb)
   
@@ -70,7 +70,7 @@
 
 ***
 * 06 Trees
-  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/README.md)
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/00_README.md)
 
   * [Tree Representation Implementation (Lists)](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/01_Tree_Representation_Implementation_Lists.ipynb)
   
