@@ -125,6 +125,7 @@
 
 ***
 * 10 Mock Interviews
+  * [Interview Information](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/10_Mock%20Interviews/Interview_Information/00_Interview_Information.md)
 
 
 ***
