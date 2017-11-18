@@ -83,6 +83,8 @@
 
 ***
 * 07 Sorting and Searching
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/00_Keynotes/00_README.md)
+
   * [Sequential Search](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/01_Sequential_Search.ipynb)
   
   * [Implementation of Binary Search](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/07_Sorting_and_Searching/02_Implementation_of_Binary_Search.ipynb)
