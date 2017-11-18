@@ -40,4 +40,44 @@
 
 ![06_20.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_20.png)
 
+![06_21.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_21.png)
+
+![06_22.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_22.png)
+
+![06_23.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_23.png)
+
+![06_24.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_24.png)
+
+![06_25.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_25.png)
+
+![06_26.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_26.png)
+
+![06_27.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_27.png)
+
+![06_28.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_28.png)
+
+![06_29.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_29.png)
+
+![06_30.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_30.png)
+
+![06_31.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_31.png)
+
+![06_32.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_32.png)
+
+![06_33.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_33.png)
+
+![06_34.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_34.png)
+
+![06_35.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_35.png)
+
+![06_36.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_36.png)
+
+![06_37.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_37.png)
+
+![06_38.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_38.png)
+
+![06_39.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_39.png)
+
+![06_40.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/06_Trees/00_Keynotes/06_40.png)
+
 
