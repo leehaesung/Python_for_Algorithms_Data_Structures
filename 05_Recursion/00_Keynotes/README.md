@@ -28,4 +28,3 @@
 
 ![05_14.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/00_Keynotes/05_14.png)
 
-![05_15.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/05_Recursion/00_Keynotes/05_15.png)
