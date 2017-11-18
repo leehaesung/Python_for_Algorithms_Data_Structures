@@ -7,6 +7,8 @@
 ## Contents
 
 * 01 Algorithm Analysis and Big O
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/00_Keynotes/README.md)
+
   * [Introduction to Algorithm Analysis and Big O](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/01_Introduction_to_Algorithm_Analysis_and_Big_O%20.ipynb)
 
   * [Big O Notation](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/01_Algorithm_Analysis_and_BigO/02_Big_O_Notation.ipynb)
@@ -19,6 +21,8 @@
 
 ***
 * 02 Array Sequences
+  * [Keynotes](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/00_Keynotes/README.md)
+
   * [Introduction to Array Based Sequences](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/01_Introduction_to_Array_Based_Sequences.ipynb)
   
   * [Dynamic Array Exercise](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/02_Array_Sequences/04_Dynamic_Array_Exercise.ipynb)
