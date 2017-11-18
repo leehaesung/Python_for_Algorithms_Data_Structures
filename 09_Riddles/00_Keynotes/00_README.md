@@ -12,6 +12,5 @@
 
 ![09_06.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/09_Riddles/00_Keynotes/09_06.png)
 
-![09_07.png](https://github.com/leehaesung/Python_for_Algorithms_Data_Structures/blob/master/09_Riddles/00_Keynotes/09_07.png)
 
 
