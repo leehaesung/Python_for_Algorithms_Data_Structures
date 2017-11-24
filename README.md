@@ -152,5 +152,5 @@
   * Cracking the Coding Interview
   * [GitHub: Cracking the Coding Interview, 5th Edition](https://github.com/careercup/ctci)
   * [https://www.careercup.com/interview](https://www.careercup.com/interview)
-  * [Tutorials of Data Structure & Algorithm](http://www.tutorialspoint.com/data_structures_algorithms/)
-  * [DATA STRUCTURES & ALGORITHMS - QUICK GUIDE](https://www.tutorialspoint.com/cgi-bin/printpage.cgi)
+  * [TutorialsPoint of Data Structure & Algorithm](http://www.tutorialspoint.com/data_structures_algorithms/)
+  * [DATA STRUCTURES & ALGORITHMS - QUICK GUIDE](https://www.tutorialspoint.com/data_structures_algorithms/dsa_quick_guide.htm)
