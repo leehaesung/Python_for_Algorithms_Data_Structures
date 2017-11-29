@@ -154,3 +154,5 @@
   * [https://www.careercup.com/interview](https://www.careercup.com/interview)
   * [TutorialsPoint of Data Structure & Algorithm](http://www.tutorialspoint.com/data_structures_algorithms/)
   * [DATA STRUCTURES & ALGORITHMS - QUICK GUIDE](https://www.tutorialspoint.com/data_structures_algorithms/dsa_quick_guide.htm)
+  * [Python Quick Guide](https://www.tutorialspoint.com/python/python_quick_guide.htm)
+  
